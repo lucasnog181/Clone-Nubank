@@ -4,11 +4,11 @@
     "slug": "app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo-nubank-roxo-icon-256.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#820AD1"
     },
     "updates": {
       "fallbackToCacheTimeout": 0

@@ -1,0 +1,36 @@
+export default [
+  {
+    id: 1,
+    title: "Cartão de Crédito",
+    icon: "card-outline",
+    description: "Fatura atual",
+    valor: "R$ 190,00",
+    limit: "Limite disponível:",
+    limitValor: "R$ 375,90",
+  },
+  {
+    id: 2,
+    title: "Conta",
+    icon: "server-outline",
+    description: "Saldo disponível",
+    valor: "R$ 690,00",
+  },
+  {
+    id: 3,
+    active: true,
+    title: "Rewards",
+    icon: "gift-outline",
+    description: "Conheça o Rewards: um seguro simples e que cabe no bolso.",
+    valor: "R$ 690,00",
+    textButton: "conhecer",
+  },
+  {
+    id: 4,
+    active: true,
+    title: "Google Play",
+    icon: "phone-portrait-outline",
+    description: "Use o Google Play com seus cartões Nubank",
+    valor: "R$ 690,00",
+    textButton: "Registra meu cartão",
+  },
+];
