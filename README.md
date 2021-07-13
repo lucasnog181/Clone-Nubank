@@ -14,7 +14,7 @@
 <ul>
 <li><a href="https://www.typescriptlang.org/" rel="nofollow">TypeScript</a></li>
 <li><a href="https://reactnative.dev/" rel="nofollow">React Native</a></li>
-<li><a href="https://nextjs.org/" rel="nofollow">Next.js</a></li>
+
 </ul>
 
 
